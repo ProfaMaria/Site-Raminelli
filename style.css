@@ -1,0 +1,16 @@
+*{margin: 0; padding:0 ;}
+
+.cabecalho {background-color: #483139; display: flex; justify-content: center;}
+
+.cabecalho-imagem {width: 15%;}
+
+.lista-parte1 {display: grid; justify-items: center;}
+
+.lista-parte1-item { margin: 5px 25px;}
+
+.lista2-parte1 {display: flex; justify-content: center;}
+
+.lista2-parte1-item { display: inline-block; margin: 50px 45px ; font-size: 32px;}
+
+.lista3 { justify-content: space-between; grid-template-columns: 20% 15% 15% 15% 15%;}
+
